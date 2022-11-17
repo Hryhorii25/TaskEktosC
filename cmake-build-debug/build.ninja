@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Hryhorii/Desktop/TaskEktos/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target TaskEktos
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/Hryhorii/Desktop/TaskEktos/cmake-build-debug/
 
 build cmake_object_order_depends_target_TaskEktos: phony || CMakeFiles/TaskEktos.dir
 
-build CMakeFiles/TaskEktos.dir/main.c.obj: C_COMPILER__TaskEktos_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/main.c || cmake_object_order_depends_target_TaskEktos
+build CMakeFiles/TaskEktos.dir/main.c.obj: C_COMPILER__TaskEktos_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/main.c || cmake_object_order_depends_target_TaskEktos
   DEP_FILE = CMakeFiles\TaskEktos.dir\main.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\TaskEktos.dir
@@ -82,7 +82,7 @@ build TaskEktos.exe: C_EXECUTABLE_LINKER__TaskEktos_Debug CMakeFiles/TaskEktos.d
 
 build cmake_object_order_depends_target_1HelloWorld: phony || CMakeFiles/1HelloWorld.dir
 
-build CMakeFiles/1HelloWorld.dir/1HelloWorld.c.obj: C_COMPILER__1HelloWorld_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/1HelloWorld.c || cmake_object_order_depends_target_1HelloWorld
+build CMakeFiles/1HelloWorld.dir/1HelloWorld.c.obj: C_COMPILER__1HelloWorld_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/1HelloWorld.c || cmake_object_order_depends_target_1HelloWorld
   DEP_FILE = CMakeFiles\1HelloWorld.dir\1HelloWorld.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\1HelloWorld.dir
@@ -115,7 +115,7 @@ build 1HelloWorld.exe: C_EXECUTABLE_LINKER__1HelloWorld_Debug CMakeFiles/1HelloW
 
 build cmake_object_order_depends_target_1Print: phony || CMakeFiles/1Print.dir
 
-build CMakeFiles/1Print.dir/1Print.c.obj: C_COMPILER__1Print_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/1Print.c || cmake_object_order_depends_target_1Print
+build CMakeFiles/1Print.dir/1Print.c.obj: C_COMPILER__1Print_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/1Print.c || cmake_object_order_depends_target_1Print
   DEP_FILE = CMakeFiles\1Print.dir\1Print.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\1Print.dir
@@ -148,7 +148,7 @@ build 1Print.exe: C_EXECUTABLE_LINKER__1Print_Debug CMakeFiles/1Print.dir/1Print
 
 build cmake_object_order_depends_target_1Types: phony || CMakeFiles/1Types.dir
 
-build CMakeFiles/1Types.dir/1Types.c.obj: C_COMPILER__1Types_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/1Types.c || cmake_object_order_depends_target_1Types
+build CMakeFiles/1Types.dir/1Types.c.obj: C_COMPILER__1Types_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/1Types.c || cmake_object_order_depends_target_1Types
   DEP_FILE = CMakeFiles\1Types.dir\1Types.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\1Types.dir
@@ -181,7 +181,7 @@ build 1Types.exe: C_EXECUTABLE_LINKER__1Types_Debug CMakeFiles/1Types.dir/1Types
 
 build cmake_object_order_depends_target_3Print: phony || CMakeFiles/3Print.dir
 
-build CMakeFiles/3Print.dir/3Print.c.obj: C_COMPILER__3Print_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/3Print.c || cmake_object_order_depends_target_3Print
+build CMakeFiles/3Print.dir/3Print.c.obj: C_COMPILER__3Print_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/3Print.c || cmake_object_order_depends_target_3Print
   DEP_FILE = CMakeFiles\3Print.dir\3Print.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\3Print.dir
@@ -214,7 +214,7 @@ build 3Print.exe: C_EXECUTABLE_LINKER__3Print_Debug CMakeFiles/3Print.dir/3Print
 
 build cmake_object_order_depends_target_3Scan: phony || CMakeFiles/3Scan.dir
 
-build CMakeFiles/3Scan.dir/3Scan.c.obj: C_COMPILER__3Scan_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/3Scan.c || cmake_object_order_depends_target_3Scan
+build CMakeFiles/3Scan.dir/3Scan.c.obj: C_COMPILER__3Scan_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/3Scan.c || cmake_object_order_depends_target_3Scan
   DEP_FILE = CMakeFiles\3Scan.dir\3Scan.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\3Scan.dir
@@ -247,7 +247,7 @@ build 3Scan.exe: C_EXECUTABLE_LINKER__3Scan_Debug CMakeFiles/3Scan.dir/3Scan.c.o
 
 build cmake_object_order_depends_target_5LogicalOperators: phony || CMakeFiles/5LogicalOperators.dir
 
-build CMakeFiles/5LogicalOperators.dir/5LogicalOperators.c.obj: C_COMPILER__5LogicalOperators_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/5LogicalOperators.c || cmake_object_order_depends_target_5LogicalOperators
+build CMakeFiles/5LogicalOperators.dir/5LogicalOperators.c.obj: C_COMPILER__5LogicalOperators_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/5LogicalOperators.c || cmake_object_order_depends_target_5LogicalOperators
   DEP_FILE = CMakeFiles\5LogicalOperators.dir\5LogicalOperators.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\5LogicalOperators.dir
@@ -280,7 +280,7 @@ build 5LogicalOperators.exe: C_EXECUTABLE_LINKER__5LogicalOperators_Debug CMakeF
 
 build cmake_object_order_depends_target_6LogicalOperators: phony || CMakeFiles/6LogicalOperators.dir
 
-build CMakeFiles/6LogicalOperators.dir/6LogicalOperators.c.obj: C_COMPILER__6LogicalOperators_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/6LogicalOperators.c || cmake_object_order_depends_target_6LogicalOperators
+build CMakeFiles/6LogicalOperators.dir/6LogicalOperators.c.obj: C_COMPILER__6LogicalOperators_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/6LogicalOperators.c || cmake_object_order_depends_target_6LogicalOperators
   DEP_FILE = CMakeFiles\6LogicalOperators.dir\6LogicalOperators.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\6LogicalOperators.dir
@@ -313,7 +313,7 @@ build 6LogicalOperators.exe: C_EXECUTABLE_LINKER__6LogicalOperators_Debug CMakeF
 
 build cmake_object_order_depends_target_7LogicOp: phony || CMakeFiles/7LogicOp.dir
 
-build CMakeFiles/7LogicOp.dir/7LogicOp.c.obj: C_COMPILER__7LogicOp_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/7LogicOp.c || cmake_object_order_depends_target_7LogicOp
+build CMakeFiles/7LogicOp.dir/7LogicOp.c.obj: C_COMPILER__7LogicOp_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/7LogicOp.c || cmake_object_order_depends_target_7LogicOp
   DEP_FILE = CMakeFiles\7LogicOp.dir\7LogicOp.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\7LogicOp.dir
@@ -346,7 +346,7 @@ build 7LogicOp.exe: C_EXECUTABLE_LINKER__7LogicOp_Debug CMakeFiles/7LogicOp.dir/
 
 build cmake_object_order_depends_target_8CycleForExemples: phony || CMakeFiles/8CycleForExemples.dir
 
-build CMakeFiles/8CycleForExemples.dir/8CycleForExemples.c.obj: C_COMPILER__8CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/8CycleForExemples.c || cmake_object_order_depends_target_8CycleForExemples
+build CMakeFiles/8CycleForExemples.dir/8CycleForExemples.c.obj: C_COMPILER__8CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/8CycleForExemples.c || cmake_object_order_depends_target_8CycleForExemples
   DEP_FILE = CMakeFiles\8CycleForExemples.dir\8CycleForExemples.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\8CycleForExemples.dir
@@ -379,7 +379,7 @@ build 8CycleForExemples.exe: C_EXECUTABLE_LINKER__8CycleForExemples_Debug CMakeF
 
 build cmake_object_order_depends_target_8CycleFor: phony || CMakeFiles/8CycleFor.dir
 
-build CMakeFiles/8CycleFor.dir/8CycleFor.c.obj: C_COMPILER__8CycleFor_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/8CycleFor.c || cmake_object_order_depends_target_8CycleFor
+build CMakeFiles/8CycleFor.dir/8CycleFor.c.obj: C_COMPILER__8CycleFor_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/8CycleFor.c || cmake_object_order_depends_target_8CycleFor
   DEP_FILE = CMakeFiles\8CycleFor.dir\8CycleFor.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\8CycleFor.dir
@@ -412,7 +412,7 @@ build 8CycleFor.exe: C_EXECUTABLE_LINKER__8CycleFor_Debug CMakeFiles/8CycleFor.d
 
 build cmake_object_order_depends_target_9CycleForExemples: phony || CMakeFiles/9CycleForExemples.dir
 
-build CMakeFiles/9CycleForExemples.dir/9CycleForExemples.c.obj: C_COMPILER__9CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/9CycleForExemples.c || cmake_object_order_depends_target_9CycleForExemples
+build CMakeFiles/9CycleForExemples.dir/9CycleForExemples.c.obj: C_COMPILER__9CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/9CycleForExemples.c || cmake_object_order_depends_target_9CycleForExemples
   DEP_FILE = CMakeFiles\9CycleForExemples.dir\9CycleForExemples.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\9CycleForExemples.dir
@@ -445,8 +445,14 @@ build 9CycleForExemples.exe: C_EXECUTABLE_LINKER__9CycleForExemples_Debug CMakeF
 
 build cmake_object_order_depends_target_10CycleForExemples: phony || CMakeFiles/10CycleForExemples.dir
 
-build CMakeFiles/10CycleForExemples.dir/10CycleForExemples.c.obj: C_COMPILER__10CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/10CycleForExemples.c || cmake_object_order_depends_target_10CycleForExemples
+build CMakeFiles/10CycleForExemples.dir/10CycleForExemples.c.obj: C_COMPILER__10CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/10CycleForExemples.c || cmake_object_order_depends_target_10CycleForExemples
   DEP_FILE = CMakeFiles\10CycleForExemples.dir\10CycleForExemples.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\10CycleForExemples.dir
+  OBJECT_FILE_DIR = CMakeFiles\10CycleForExemples.dir
+
+build CMakeFiles/10CycleForExemples.dir/71VoidPointer.c.obj: C_COMPILER__10CycleForExemples_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/71VoidPointer.c || cmake_object_order_depends_target_10CycleForExemples
+  DEP_FILE = CMakeFiles\10CycleForExemples.dir\71VoidPointer.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\10CycleForExemples.dir
   OBJECT_FILE_DIR = CMakeFiles\10CycleForExemples.dir
@@ -459,7 +465,7 @@ build CMakeFiles/10CycleForExemples.dir/10CycleForExemples.c.obj: C_COMPILER__10
 #############################################
 # Link the executable 10CycleForExemples.exe
 
-build 10CycleForExemples.exe: C_EXECUTABLE_LINKER__10CycleForExemples_Debug CMakeFiles/10CycleForExemples.dir/10CycleForExemples.c.obj
+build 10CycleForExemples.exe: C_EXECUTABLE_LINKER__10CycleForExemples_Debug CMakeFiles/10CycleForExemples.dir/10CycleForExemples.c.obj CMakeFiles/10CycleForExemples.dir/71VoidPointer.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\10CycleForExemples.dir
@@ -478,7 +484,7 @@ build 10CycleForExemples.exe: C_EXECUTABLE_LINKER__10CycleForExemples_Debug CMak
 
 build cmake_object_order_depends_target_11CycleWhile: phony || CMakeFiles/11CycleWhile.dir
 
-build CMakeFiles/11CycleWhile.dir/11CycleWhile.c.obj: C_COMPILER__11CycleWhile_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/11CycleWhile.c || cmake_object_order_depends_target_11CycleWhile
+build CMakeFiles/11CycleWhile.dir/11CycleWhile.c.obj: C_COMPILER__11CycleWhile_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/11CycleWhile.c || cmake_object_order_depends_target_11CycleWhile
   DEP_FILE = CMakeFiles\11CycleWhile.dir\11CycleWhile.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\11CycleWhile.dir
@@ -511,7 +517,7 @@ build 11CycleWhile.exe: C_EXECUTABLE_LINKER__11CycleWhile_Debug CMakeFiles/11Cyc
 
 build cmake_object_order_depends_target_13Array: phony || CMakeFiles/13Array.dir
 
-build CMakeFiles/13Array.dir/13Array.c.obj: C_COMPILER__13Array_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/13Array.c || cmake_object_order_depends_target_13Array
+build CMakeFiles/13Array.dir/13Array.c.obj: C_COMPILER__13Array_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/13Array.c || cmake_object_order_depends_target_13Array
   DEP_FILE = CMakeFiles\13Array.dir\13Array.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\13Array.dir
@@ -544,7 +550,7 @@ build 13Array.exe: C_EXECUTABLE_LINKER__13Array_Debug CMakeFiles/13Array.dir/13A
 
 build cmake_object_order_depends_target_14ArrayExwmple: phony || CMakeFiles/14ArrayExwmple.dir
 
-build CMakeFiles/14ArrayExwmple.dir/14ArrayExwmple.c.obj: C_COMPILER__14ArrayExwmple_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/14ArrayExwmple.c || cmake_object_order_depends_target_14ArrayExwmple
+build CMakeFiles/14ArrayExwmple.dir/14ArrayExwmple.c.obj: C_COMPILER__14ArrayExwmple_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/14ArrayExwmple.c || cmake_object_order_depends_target_14ArrayExwmple
   DEP_FILE = CMakeFiles\14ArrayExwmple.dir\14ArrayExwmple.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\14ArrayExwmple.dir
@@ -577,7 +583,7 @@ build 14ArrayExwmple.exe: C_EXECUTABLE_LINKER__14ArrayExwmple_Debug CMakeFiles/1
 
 build cmake_object_order_depends_target_15Array: phony || CMakeFiles/15Array.dir
 
-build CMakeFiles/15Array.dir/15Array.c.obj: C_COMPILER__15Array_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/15Array.c || cmake_object_order_depends_target_15Array
+build CMakeFiles/15Array.dir/15Array.c.obj: C_COMPILER__15Array_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/15Array.c || cmake_object_order_depends_target_15Array
   DEP_FILE = CMakeFiles\15Array.dir\15Array.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\15Array.dir
@@ -610,7 +616,7 @@ build 15Array.exe: C_EXECUTABLE_LINKER__15Array_Debug CMakeFiles/15Array.dir/15A
 
 build cmake_object_order_depends_target_17Array: phony || CMakeFiles/17Array.dir
 
-build CMakeFiles/17Array.dir/17Array.c.obj: C_COMPILER__17Array_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/17Array.c || cmake_object_order_depends_target_17Array
+build CMakeFiles/17Array.dir/17Array.c.obj: C_COMPILER__17Array_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/17Array.c || cmake_object_order_depends_target_17Array
   DEP_FILE = CMakeFiles\17Array.dir\17Array.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\17Array.dir
@@ -643,7 +649,7 @@ build 17Array.exe: C_EXECUTABLE_LINKER__17Array_Debug CMakeFiles/17Array.dir/17A
 
 build cmake_object_order_depends_target_18Matrix: phony || CMakeFiles/18Matrix.dir
 
-build CMakeFiles/18Matrix.dir/18Matrix.c.obj: C_COMPILER__18Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/18Matrix.c || cmake_object_order_depends_target_18Matrix
+build CMakeFiles/18Matrix.dir/18Matrix.c.obj: C_COMPILER__18Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/18Matrix.c || cmake_object_order_depends_target_18Matrix
   DEP_FILE = CMakeFiles\18Matrix.dir\18Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\18Matrix.dir
@@ -676,7 +682,7 @@ build 18Matrix.exe: C_EXECUTABLE_LINKER__18Matrix_Debug CMakeFiles/18Matrix.dir/
 
 build cmake_object_order_depends_target_19Matrix: phony || CMakeFiles/19Matrix.dir
 
-build CMakeFiles/19Matrix.dir/19Matrix.c.obj: C_COMPILER__19Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/19Matrix.c || cmake_object_order_depends_target_19Matrix
+build CMakeFiles/19Matrix.dir/19Matrix.c.obj: C_COMPILER__19Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/19Matrix.c || cmake_object_order_depends_target_19Matrix
   DEP_FILE = CMakeFiles\19Matrix.dir\19Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\19Matrix.dir
@@ -709,7 +715,7 @@ build 19Matrix.exe: C_EXECUTABLE_LINKER__19Matrix_Debug CMakeFiles/19Matrix.dir/
 
 build cmake_object_order_depends_target_20Matrix: phony || CMakeFiles/20Matrix.dir
 
-build CMakeFiles/20Matrix.dir/20Matrix.c.obj: C_COMPILER__20Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/20Matrix.c || cmake_object_order_depends_target_20Matrix
+build CMakeFiles/20Matrix.dir/20Matrix.c.obj: C_COMPILER__20Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/20Matrix.c || cmake_object_order_depends_target_20Matrix
   DEP_FILE = CMakeFiles\20Matrix.dir\20Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\20Matrix.dir
@@ -742,7 +748,7 @@ build 20Matrix.exe: C_EXECUTABLE_LINKER__20Matrix_Debug CMakeFiles/20Matrix.dir/
 
 build cmake_object_order_depends_target_21Matrix: phony || CMakeFiles/21Matrix.dir
 
-build CMakeFiles/21Matrix.dir/21Matrix.c.obj: C_COMPILER__21Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/21Matrix.c || cmake_object_order_depends_target_21Matrix
+build CMakeFiles/21Matrix.dir/21Matrix.c.obj: C_COMPILER__21Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/21Matrix.c || cmake_object_order_depends_target_21Matrix
   DEP_FILE = CMakeFiles\21Matrix.dir\21Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\21Matrix.dir
@@ -775,7 +781,7 @@ build 21Matrix.exe: C_EXECUTABLE_LINKER__21Matrix_Debug CMakeFiles/21Matrix.dir/
 
 build cmake_object_order_depends_target_22Matrix: phony || CMakeFiles/22Matrix.dir
 
-build CMakeFiles/22Matrix.dir/22Matrix.c.obj: C_COMPILER__22Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/22Matrix.c || cmake_object_order_depends_target_22Matrix
+build CMakeFiles/22Matrix.dir/22Matrix.c.obj: C_COMPILER__22Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/22Matrix.c || cmake_object_order_depends_target_22Matrix
   DEP_FILE = CMakeFiles\22Matrix.dir\22Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\22Matrix.dir
@@ -808,7 +814,7 @@ build 22Matrix.exe: C_EXECUTABLE_LINKER__22Matrix_Debug CMakeFiles/22Matrix.dir/
 
 build cmake_object_order_depends_target_23Matrix: phony || CMakeFiles/23Matrix.dir
 
-build CMakeFiles/23Matrix.dir/23Matrix.c.obj: C_COMPILER__23Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/23Matrix.c || cmake_object_order_depends_target_23Matrix
+build CMakeFiles/23Matrix.dir/23Matrix.c.obj: C_COMPILER__23Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/23Matrix.c || cmake_object_order_depends_target_23Matrix
   DEP_FILE = CMakeFiles\23Matrix.dir\23Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\23Matrix.dir
@@ -841,7 +847,7 @@ build 23Matrix.exe: C_EXECUTABLE_LINKER__23Matrix_Debug CMakeFiles/23Matrix.dir/
 
 build cmake_object_order_depends_target_24Matrix: phony || CMakeFiles/24Matrix.dir
 
-build CMakeFiles/24Matrix.dir/24Matrix.c.obj: C_COMPILER__24Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/24Matrix.c || cmake_object_order_depends_target_24Matrix
+build CMakeFiles/24Matrix.dir/24Matrix.c.obj: C_COMPILER__24Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/24Matrix.c || cmake_object_order_depends_target_24Matrix
   DEP_FILE = CMakeFiles\24Matrix.dir\24Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\24Matrix.dir
@@ -874,7 +880,7 @@ build 24Matrix.exe: C_EXECUTABLE_LINKER__24Matrix_Debug CMakeFiles/24Matrix.dir/
 
 build cmake_object_order_depends_target_25BytesOperation: phony || CMakeFiles/25BytesOperation.dir
 
-build CMakeFiles/25BytesOperation.dir/25BytesOperation.c.obj: C_COMPILER__25BytesOperation_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/25BytesOperation.c || cmake_object_order_depends_target_25BytesOperation
+build CMakeFiles/25BytesOperation.dir/25BytesOperation.c.obj: C_COMPILER__25BytesOperation_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/25BytesOperation.c || cmake_object_order_depends_target_25BytesOperation
   DEP_FILE = CMakeFiles\25BytesOperation.dir\25BytesOperation.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\25BytesOperation.dir
@@ -907,7 +913,7 @@ build 25BytesOperation.exe: C_EXECUTABLE_LINKER__25BytesOperation_Debug CMakeFil
 
 build cmake_object_order_depends_target_26BitShiftOperations: phony || CMakeFiles/26BitShiftOperations.dir
 
-build CMakeFiles/26BitShiftOperations.dir/26BitShiftOperations.c.obj: C_COMPILER__26BitShiftOperations_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/26BitShiftOperations.c || cmake_object_order_depends_target_26BitShiftOperations
+build CMakeFiles/26BitShiftOperations.dir/26BitShiftOperations.c.obj: C_COMPILER__26BitShiftOperations_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/26BitShiftOperations.c || cmake_object_order_depends_target_26BitShiftOperations
   DEP_FILE = CMakeFiles\26BitShiftOperations.dir\26BitShiftOperations.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\26BitShiftOperations.dir
@@ -940,7 +946,7 @@ build 26BitShiftOperations.exe: C_EXECUTABLE_LINKER__26BitShiftOperations_Debug 
 
 build cmake_object_order_depends_target_27IfElse: phony || CMakeFiles/27IfElse.dir
 
-build CMakeFiles/27IfElse.dir/27IfElse.c.obj: C_COMPILER__27IfElse_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/27IfElse.c || cmake_object_order_depends_target_27IfElse
+build CMakeFiles/27IfElse.dir/27IfElse.c.obj: C_COMPILER__27IfElse_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/27IfElse.c || cmake_object_order_depends_target_27IfElse
   DEP_FILE = CMakeFiles\27IfElse.dir\27IfElse.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\27IfElse.dir
@@ -973,7 +979,7 @@ build 27IfElse.exe: C_EXECUTABLE_LINKER__27IfElse_Debug CMakeFiles/27IfElse.dir/
 
 build cmake_object_order_depends_target_28Switch: phony || CMakeFiles/28Switch.dir
 
-build CMakeFiles/28Switch.dir/28Switch.c.obj: C_COMPILER__28Switch_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/28Switch.c || cmake_object_order_depends_target_28Switch
+build CMakeFiles/28Switch.dir/28Switch.c.obj: C_COMPILER__28Switch_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/28Switch.c || cmake_object_order_depends_target_28Switch
   DEP_FILE = CMakeFiles\28Switch.dir\28Switch.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\28Switch.dir
@@ -1006,7 +1012,7 @@ build 28Switch.exe: C_EXECUTABLE_LINKER__28Switch_Debug CMakeFiles/28Switch.dir/
 
 build cmake_object_order_depends_target_29Switch: phony || CMakeFiles/29Switch.dir
 
-build CMakeFiles/29Switch.dir/29Switch.c.obj: C_COMPILER__29Switch_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/29Switch.c || cmake_object_order_depends_target_29Switch
+build CMakeFiles/29Switch.dir/29Switch.c.obj: C_COMPILER__29Switch_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/29Switch.c || cmake_object_order_depends_target_29Switch
   DEP_FILE = CMakeFiles\29Switch.dir\29Switch.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\29Switch.dir
@@ -1039,7 +1045,7 @@ build 29Switch.exe: C_EXECUTABLE_LINKER__29Switch_Debug CMakeFiles/29Switch.dir/
 
 build cmake_object_order_depends_target_30Pointers: phony || CMakeFiles/30Pointers.dir
 
-build CMakeFiles/30Pointers.dir/30Pointers.c.obj: C_COMPILER__30Pointers_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/30Pointers.c || cmake_object_order_depends_target_30Pointers
+build CMakeFiles/30Pointers.dir/30Pointers.c.obj: C_COMPILER__30Pointers_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/30Pointers.c || cmake_object_order_depends_target_30Pointers
   DEP_FILE = CMakeFiles\30Pointers.dir\30Pointers.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\30Pointers.dir
@@ -1072,7 +1078,7 @@ build 30Pointers.exe: C_EXECUTABLE_LINKER__30Pointers_Debug CMakeFiles/30Pointer
 
 build cmake_object_order_depends_target_31Pointers: phony || CMakeFiles/31Pointers.dir
 
-build CMakeFiles/31Pointers.dir/31Pointers.c.obj: C_COMPILER__31Pointers_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/31Pointers.c || cmake_object_order_depends_target_31Pointers
+build CMakeFiles/31Pointers.dir/31Pointers.c.obj: C_COMPILER__31Pointers_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/31Pointers.c || cmake_object_order_depends_target_31Pointers
   DEP_FILE = CMakeFiles\31Pointers.dir\31Pointers.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\31Pointers.dir
@@ -1105,7 +1111,7 @@ build 31Pointers.exe: C_EXECUTABLE_LINKER__31Pointers_Debug CMakeFiles/31Pointer
 
 build cmake_object_order_depends_target_32PointerArithmetic: phony || CMakeFiles/32PointerArithmetic.dir
 
-build CMakeFiles/32PointerArithmetic.dir/32PointerArithmetic.c.obj: C_COMPILER__32PointerArithmetic_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/32PointerArithmetic.c || cmake_object_order_depends_target_32PointerArithmetic
+build CMakeFiles/32PointerArithmetic.dir/32PointerArithmetic.c.obj: C_COMPILER__32PointerArithmetic_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/32PointerArithmetic.c || cmake_object_order_depends_target_32PointerArithmetic
   DEP_FILE = CMakeFiles\32PointerArithmetic.dir\32PointerArithmetic.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\32PointerArithmetic.dir
@@ -1138,7 +1144,7 @@ build 32PointerArithmetic.exe: C_EXECUTABLE_LINKER__32PointerArithmetic_Debug CM
 
 build cmake_object_order_depends_target_33PointerArithmetic: phony || CMakeFiles/33PointerArithmetic.dir
 
-build CMakeFiles/33PointerArithmetic.dir/33PointerArithmetic.c.obj: C_COMPILER__33PointerArithmetic_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/33PointerArithmetic.c || cmake_object_order_depends_target_33PointerArithmetic
+build CMakeFiles/33PointerArithmetic.dir/33PointerArithmetic.c.obj: C_COMPILER__33PointerArithmetic_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/33PointerArithmetic.c || cmake_object_order_depends_target_33PointerArithmetic
   DEP_FILE = CMakeFiles\33PointerArithmetic.dir\33PointerArithmetic.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\33PointerArithmetic.dir
@@ -1171,7 +1177,7 @@ build 33PointerArithmetic.exe: C_EXECUTABLE_LINKER__33PointerArithmetic_Debug CM
 
 build cmake_object_order_depends_target_35PointerToPointer: phony || CMakeFiles/35PointerToPointer.dir
 
-build CMakeFiles/35PointerToPointer.dir/35PointerToPointer.c.obj: C_COMPILER__35PointerToPointer_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/35PointerToPointer.c || cmake_object_order_depends_target_35PointerToPointer
+build CMakeFiles/35PointerToPointer.dir/35PointerToPointer.c.obj: C_COMPILER__35PointerToPointer_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/35PointerToPointer.c || cmake_object_order_depends_target_35PointerToPointer
   DEP_FILE = CMakeFiles\35PointerToPointer.dir\35PointerToPointer.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\35PointerToPointer.dir
@@ -1204,7 +1210,7 @@ build 35PointerToPointer.exe: C_EXECUTABLE_LINKER__35PointerToPointer_Debug CMak
 
 build cmake_object_order_depends_target_36Pointers: phony || CMakeFiles/36Pointers.dir
 
-build CMakeFiles/36Pointers.dir/36Pointers.c.obj: C_COMPILER__36Pointers_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/36Pointers.c || cmake_object_order_depends_target_36Pointers
+build CMakeFiles/36Pointers.dir/36Pointers.c.obj: C_COMPILER__36Pointers_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/36Pointers.c || cmake_object_order_depends_target_36Pointers
   DEP_FILE = CMakeFiles\36Pointers.dir\36Pointers.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\36Pointers.dir
@@ -1237,7 +1243,7 @@ build 36Pointers.exe: C_EXECUTABLE_LINKER__36Pointers_Debug CMakeFiles/36Pointer
 
 build cmake_object_order_depends_target_3836PointersConst: phony || CMakeFiles/3836PointersConst.dir
 
-build CMakeFiles/3836PointersConst.dir/37PointersConst.c.obj: C_COMPILER__3836PointersConst_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/37PointersConst.c || cmake_object_order_depends_target_3836PointersConst
+build CMakeFiles/3836PointersConst.dir/37PointersConst.c.obj: C_COMPILER__3836PointersConst_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/37PointersConst.c || cmake_object_order_depends_target_3836PointersConst
   DEP_FILE = CMakeFiles\3836PointersConst.dir\37PointersConst.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\3836PointersConst.dir
@@ -1270,7 +1276,7 @@ build 3836PointersConst.exe: C_EXECUTABLE_LINKER__3836PointersConst_Debug CMakeF
 
 build cmake_object_order_depends_target_38PointersArray: phony || CMakeFiles/38PointersArray.dir
 
-build CMakeFiles/38PointersArray.dir/38PointersArray.c.obj: C_COMPILER__38PointersArray_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/38PointersArray.c || cmake_object_order_depends_target_38PointersArray
+build CMakeFiles/38PointersArray.dir/38PointersArray.c.obj: C_COMPILER__38PointersArray_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/38PointersArray.c || cmake_object_order_depends_target_38PointersArray
   DEP_FILE = CMakeFiles\38PointersArray.dir\38PointersArray.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\38PointersArray.dir
@@ -1303,7 +1309,7 @@ build 38PointersArray.exe: C_EXECUTABLE_LINKER__38PointersArray_Debug CMakeFiles
 
 build cmake_object_order_depends_target_25Matrix: phony || CMakeFiles/25Matrix.dir
 
-build CMakeFiles/25Matrix.dir/25Matrix.c.obj: C_COMPILER__25Matrix_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/25Matrix.c || cmake_object_order_depends_target_25Matrix
+build CMakeFiles/25Matrix.dir/25Matrix.c.obj: C_COMPILER__25Matrix_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/25Matrix.c || cmake_object_order_depends_target_25Matrix
   DEP_FILE = CMakeFiles\25Matrix.dir\25Matrix.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\25Matrix.dir
@@ -1336,7 +1342,7 @@ build 25Matrix.exe: C_EXECUTABLE_LINKER__25Matrix_Debug CMakeFiles/25Matrix.dir/
 
 build cmake_object_order_depends_target_39Boolean: phony || CMakeFiles/39Boolean.dir
 
-build CMakeFiles/39Boolean.dir/39Boolean.c.obj: C_COMPILER__39Boolean_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/39Boolean.c || cmake_object_order_depends_target_39Boolean
+build CMakeFiles/39Boolean.dir/39Boolean.c.obj: C_COMPILER__39Boolean_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/39Boolean.c || cmake_object_order_depends_target_39Boolean
   DEP_FILE = CMakeFiles\39Boolean.dir\39Boolean.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\39Boolean.dir
@@ -1369,7 +1375,7 @@ build 39Boolean.exe: C_EXECUTABLE_LINKER__39Boolean_Debug CMakeFiles/39Boolean.d
 
 build cmake_object_order_depends_target_40Boolean: phony || CMakeFiles/40Boolean.dir
 
-build CMakeFiles/40Boolean.dir/40Boolean.c.obj: C_COMPILER__40Boolean_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/40Boolean.c || cmake_object_order_depends_target_40Boolean
+build CMakeFiles/40Boolean.dir/40Boolean.c.obj: C_COMPILER__40Boolean_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/40Boolean.c || cmake_object_order_depends_target_40Boolean
   DEP_FILE = CMakeFiles\40Boolean.dir\40Boolean.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\40Boolean.dir
@@ -1402,7 +1408,7 @@ build 40Boolean.exe: C_EXECUTABLE_LINKER__40Boolean_Debug CMakeFiles/40Boolean.d
 
 build cmake_object_order_depends_target_12CycleWhile: phony || CMakeFiles/12CycleWhile.dir
 
-build CMakeFiles/12CycleWhile.dir/12CycleWhile.c.obj: C_COMPILER__12CycleWhile_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/12CycleWhile.c || cmake_object_order_depends_target_12CycleWhile
+build CMakeFiles/12CycleWhile.dir/12CycleWhile.c.obj: C_COMPILER__12CycleWhile_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/12CycleWhile.c || cmake_object_order_depends_target_12CycleWhile
   DEP_FILE = CMakeFiles\12CycleWhile.dir\12CycleWhile.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\12CycleWhile.dir
@@ -1435,7 +1441,7 @@ build 12CycleWhile.exe: C_EXECUTABLE_LINKER__12CycleWhile_Debug CMakeFiles/12Cyc
 
 build cmake_object_order_depends_target_41Function: phony || CMakeFiles/41Function.dir
 
-build CMakeFiles/41Function.dir/41Function.c.obj: C_COMPILER__41Function_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/41Function.c || cmake_object_order_depends_target_41Function
+build CMakeFiles/41Function.dir/41Function.c.obj: C_COMPILER__41Function_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/41Function.c || cmake_object_order_depends_target_41Function
   DEP_FILE = CMakeFiles\41Function.dir\41Function.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\41Function.dir
@@ -1468,7 +1474,7 @@ build 41Function.exe: C_EXECUTABLE_LINKER__41Function_Debug CMakeFiles/41Functio
 
 build cmake_object_order_depends_target_42Function: phony || CMakeFiles/42Function.dir
 
-build CMakeFiles/42Function.dir/42Function.c.obj: C_COMPILER__42Function_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/42Function.c || cmake_object_order_depends_target_42Function
+build CMakeFiles/42Function.dir/42Function.c.obj: C_COMPILER__42Function_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/42Function.c || cmake_object_order_depends_target_42Function
   DEP_FILE = CMakeFiles\42Function.dir\42Function.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\42Function.dir
@@ -1501,7 +1507,7 @@ build 42Function.exe: C_EXECUTABLE_LINKER__42Function_Debug CMakeFiles/42Functio
 
 build cmake_object_order_depends_target_43Function: phony || CMakeFiles/43Function.dir
 
-build CMakeFiles/43Function.dir/43Function.c.obj: C_COMPILER__43Function_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/43Function.c || cmake_object_order_depends_target_43Function
+build CMakeFiles/43Function.dir/43Function.c.obj: C_COMPILER__43Function_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/43Function.c || cmake_object_order_depends_target_43Function
   DEP_FILE = CMakeFiles\43Function.dir\43Function.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\43Function.dir
@@ -1534,7 +1540,7 @@ build 43Function.exe: C_EXECUTABLE_LINKER__43Function_Debug CMakeFiles/43Functio
 
 build cmake_object_order_depends_target_44Function: phony || CMakeFiles/44Function.dir
 
-build CMakeFiles/44Function.dir/44Function.c.obj: C_COMPILER__44Function_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/44Function.c || cmake_object_order_depends_target_44Function
+build CMakeFiles/44Function.dir/44Function.c.obj: C_COMPILER__44Function_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/44Function.c || cmake_object_order_depends_target_44Function
   DEP_FILE = CMakeFiles\44Function.dir\44Function.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\44Function.dir
@@ -1567,7 +1573,7 @@ build 44Function.exe: C_EXECUTABLE_LINKER__44Function_Debug CMakeFiles/44Functio
 
 build cmake_object_order_depends_target_45Function: phony || CMakeFiles/45Function.dir
 
-build CMakeFiles/45Function.dir/45Function.c.obj: C_COMPILER__45Function_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/45Function.c || cmake_object_order_depends_target_45Function
+build CMakeFiles/45Function.dir/45Function.c.obj: C_COMPILER__45Function_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/45Function.c || cmake_object_order_depends_target_45Function
   DEP_FILE = CMakeFiles\45Function.dir\45Function.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\45Function.dir
@@ -1600,7 +1606,7 @@ build 45Function.exe: C_EXECUTABLE_LINKER__45Function_Debug CMakeFiles/45Functio
 
 build cmake_object_order_depends_target_46Function: phony || CMakeFiles/46Function.dir
 
-build CMakeFiles/46Function.dir/46Function.c.obj: C_COMPILER__46Function_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/46Function.c || cmake_object_order_depends_target_46Function
+build CMakeFiles/46Function.dir/46Function.c.obj: C_COMPILER__46Function_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/46Function.c || cmake_object_order_depends_target_46Function
   DEP_FILE = CMakeFiles\46Function.dir\46Function.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\46Function.dir
@@ -1633,7 +1639,7 @@ build 46Function.exe: C_EXECUTABLE_LINKER__46Function_Debug CMakeFiles/46Functio
 
 build cmake_object_order_depends_target_47FunctionArray: phony || CMakeFiles/47FunctionArray.dir
 
-build CMakeFiles/47FunctionArray.dir/47FunctionArray.c.obj: C_COMPILER__47FunctionArray_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/47FunctionArray.c || cmake_object_order_depends_target_47FunctionArray
+build CMakeFiles/47FunctionArray.dir/47FunctionArray.c.obj: C_COMPILER__47FunctionArray_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/47FunctionArray.c || cmake_object_order_depends_target_47FunctionArray
   DEP_FILE = CMakeFiles\47FunctionArray.dir\47FunctionArray.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\47FunctionArray.dir
@@ -1666,7 +1672,7 @@ build 47FunctionArray.exe: C_EXECUTABLE_LINKER__47FunctionArray_Debug CMakeFiles
 
 build cmake_object_order_depends_target_48Structure: phony || CMakeFiles/48Structure.dir
 
-build CMakeFiles/48Structure.dir/48Structure.c.obj: C_COMPILER__48Structure_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/48Structure.c || cmake_object_order_depends_target_48Structure
+build CMakeFiles/48Structure.dir/48Structure.c.obj: C_COMPILER__48Structure_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/48Structure.c || cmake_object_order_depends_target_48Structure
   DEP_FILE = CMakeFiles\48Structure.dir\48Structure.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\48Structure.dir
@@ -1699,7 +1705,7 @@ build 48Structure.exe: C_EXECUTABLE_LINKER__48Structure_Debug CMakeFiles/48Struc
 
 build cmake_object_order_depends_target_50PointersStructure: phony || CMakeFiles/50PointersStructure.dir
 
-build CMakeFiles/50PointersStructure.dir/50PointersStructure.c.obj: C_COMPILER__50PointersStructure_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/50PointersStructure.c || cmake_object_order_depends_target_50PointersStructure
+build CMakeFiles/50PointersStructure.dir/50PointersStructure.c.obj: C_COMPILER__50PointersStructure_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/50PointersStructure.c || cmake_object_order_depends_target_50PointersStructure
   DEP_FILE = CMakeFiles\50PointersStructure.dir\50PointersStructure.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\50PointersStructure.dir
@@ -1732,7 +1738,7 @@ build 50PointersStructure.exe: C_EXECUTABLE_LINKER__50PointersStructure_Debug CM
 
 build cmake_object_order_depends_target_51Structure: phony || CMakeFiles/51Structure.dir
 
-build CMakeFiles/51Structure.dir/51Structure.c.obj: C_COMPILER__51Structure_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/51Structure.c || cmake_object_order_depends_target_51Structure
+build CMakeFiles/51Structure.dir/51Structure.c.obj: C_COMPILER__51Structure_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/51Structure.c || cmake_object_order_depends_target_51Structure
   DEP_FILE = CMakeFiles\51Structure.dir\51Structure.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\51Structure.dir
@@ -1765,7 +1771,7 @@ build 51Structure.exe: C_EXECUTABLE_LINKER__51Structure_Debug CMakeFiles/51Struc
 
 build cmake_object_order_depends_target_53Union: phony || CMakeFiles/53Union.dir
 
-build CMakeFiles/53Union.dir/53Union.c.obj: C_COMPILER__53Union_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/53Union.c || cmake_object_order_depends_target_53Union
+build CMakeFiles/53Union.dir/53Union.c.obj: C_COMPILER__53Union_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/53Union.c || cmake_object_order_depends_target_53Union
   DEP_FILE = CMakeFiles\53Union.dir\53Union.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\53Union.dir
@@ -1798,7 +1804,7 @@ build 53Union.exe: C_EXECUTABLE_LINKER__53Union_Debug CMakeFiles/53Union.dir/53U
 
 build cmake_object_order_depends_target_52Union: phony || CMakeFiles/52Union.dir
 
-build CMakeFiles/52Union.dir/52Union.c.obj: C_COMPILER__52Union_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/52Union.c || cmake_object_order_depends_target_52Union
+build CMakeFiles/52Union.dir/52Union.c.obj: C_COMPILER__52Union_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/52Union.c || cmake_object_order_depends_target_52Union
   DEP_FILE = CMakeFiles\52Union.dir\52Union.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\52Union.dir
@@ -1831,7 +1837,7 @@ build 52Union.exe: C_EXECUTABLE_LINKER__52Union_Debug CMakeFiles/52Union.dir/52U
 
 build cmake_object_order_depends_target_54BytesFilds: phony || CMakeFiles/54BytesFilds.dir
 
-build CMakeFiles/54BytesFilds.dir/54BytesFilds.c.obj: C_COMPILER__54BytesFilds_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/54BytesFilds.c || cmake_object_order_depends_target_54BytesFilds
+build CMakeFiles/54BytesFilds.dir/54BytesFilds.c.obj: C_COMPILER__54BytesFilds_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/54BytesFilds.c || cmake_object_order_depends_target_54BytesFilds
   DEP_FILE = CMakeFiles\54BytesFilds.dir\54BytesFilds.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\54BytesFilds.dir
@@ -1864,7 +1870,7 @@ build 54BytesFilds.exe: C_EXECUTABLE_LINKER__54BytesFilds_Debug CMakeFiles/54Byt
 
 build cmake_object_order_depends_target_55BytesFilds: phony || CMakeFiles/55BytesFilds.dir
 
-build CMakeFiles/55BytesFilds.dir/55BytesFilds.c.obj: C_COMPILER__55BytesFilds_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/55BytesFilds.c || cmake_object_order_depends_target_55BytesFilds
+build CMakeFiles/55BytesFilds.dir/55BytesFilds.c.obj: C_COMPILER__55BytesFilds_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/55BytesFilds.c || cmake_object_order_depends_target_55BytesFilds
   DEP_FILE = CMakeFiles\55BytesFilds.dir\55BytesFilds.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\55BytesFilds.dir
@@ -1897,7 +1903,7 @@ build 55BytesFilds.exe: C_EXECUTABLE_LINKER__55BytesFilds_Debug CMakeFiles/55Byt
 
 build cmake_object_order_depends_target_56TextFile: phony || CMakeFiles/56TextFile.dir
 
-build CMakeFiles/56TextFile.dir/56TextFile.c.obj: C_COMPILER__56TextFile_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/56TextFile.c || cmake_object_order_depends_target_56TextFile
+build CMakeFiles/56TextFile.dir/56TextFile.c.obj: C_COMPILER__56TextFile_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/56TextFile.c || cmake_object_order_depends_target_56TextFile
   DEP_FILE = CMakeFiles\56TextFile.dir\56TextFile.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\56TextFile.dir
@@ -1930,7 +1936,7 @@ build 56TextFile.exe: C_EXECUTABLE_LINKER__56TextFile_Debug CMakeFiles/56TextFil
 
 build cmake_object_order_depends_target_58TextFile: phony || CMakeFiles/58TextFile.dir
 
-build CMakeFiles/58TextFile.dir/58TextFile.c.obj: C_COMPILER__58TextFile_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/58TextFile.c || cmake_object_order_depends_target_58TextFile
+build CMakeFiles/58TextFile.dir/58TextFile.c.obj: C_COMPILER__58TextFile_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/58TextFile.c || cmake_object_order_depends_target_58TextFile
   DEP_FILE = CMakeFiles\58TextFile.dir\58TextFile.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\58TextFile.dir
@@ -1963,7 +1969,7 @@ build 58TextFile.exe: C_EXECUTABLE_LINKER__58TextFile_Debug CMakeFiles/58TextFil
 
 build cmake_object_order_depends_target_59BinFile: phony || CMakeFiles/59BinFile.dir
 
-build CMakeFiles/59BinFile.dir/59BinFile.c.obj: C_COMPILER__59BinFile_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/59BinFile.c || cmake_object_order_depends_target_59BinFile
+build CMakeFiles/59BinFile.dir/59BinFile.c.obj: C_COMPILER__59BinFile_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/59BinFile.c || cmake_object_order_depends_target_59BinFile
   DEP_FILE = CMakeFiles\59BinFile.dir\59BinFile.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\59BinFile.dir
@@ -1996,7 +2002,7 @@ build 59BinFile.exe: C_EXECUTABLE_LINKER__59BinFile_Debug CMakeFiles/59BinFile.d
 
 build cmake_object_order_depends_target_60String: phony || CMakeFiles/60String.dir
 
-build CMakeFiles/60String.dir/60String.c.obj: C_COMPILER__60String_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/60String.c || cmake_object_order_depends_target_60String
+build CMakeFiles/60String.dir/60String.c.obj: C_COMPILER__60String_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/60String.c || cmake_object_order_depends_target_60String
   DEP_FILE = CMakeFiles\60String.dir\60String.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\60String.dir
@@ -2029,7 +2035,7 @@ build 60String.exe: C_EXECUTABLE_LINKER__60String_Debug CMakeFiles/60String.dir/
 
 build cmake_object_order_depends_target_String61: phony || CMakeFiles/String61.dir
 
-build CMakeFiles/String61.dir/61String.c.obj: C_COMPILER__String61_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/61String.c || cmake_object_order_depends_target_String61
+build CMakeFiles/String61.dir/61String.c.obj: C_COMPILER__String61_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/61String.c || cmake_object_order_depends_target_String61
   DEP_FILE = CMakeFiles\String61.dir\61String.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\String61.dir
@@ -2062,7 +2068,7 @@ build String61.exe: C_EXECUTABLE_LINKER__String61_Debug CMakeFiles/String61.dir/
 
 build cmake_object_order_depends_target_61StringFunction: phony || CMakeFiles/61StringFunction.dir
 
-build CMakeFiles/61StringFunction.dir/61StringFunction.c.obj: C_COMPILER__61StringFunction_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/61StringFunction.c || cmake_object_order_depends_target_61StringFunction
+build CMakeFiles/61StringFunction.dir/61StringFunction.c.obj: C_COMPILER__61StringFunction_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/61StringFunction.c || cmake_object_order_depends_target_61StringFunction
   DEP_FILE = CMakeFiles\61StringFunction.dir\61StringFunction.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\61StringFunction.dir
@@ -2095,7 +2101,7 @@ build 61StringFunction.exe: C_EXECUTABLE_LINKER__61StringFunction_Debug CMakeFil
 
 build cmake_object_order_depends_target_String62: phony || CMakeFiles/String62.dir
 
-build CMakeFiles/String62.dir/62String.c.obj: C_COMPILER__String62_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/62String.c || cmake_object_order_depends_target_String62
+build CMakeFiles/String62.dir/62String.c.obj: C_COMPILER__String62_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/62String.c || cmake_object_order_depends_target_String62
   DEP_FILE = CMakeFiles\String62.dir\62String.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\String62.dir
@@ -2128,7 +2134,7 @@ build String62.exe: C_EXECUTABLE_LINKER__String62_Debug CMakeFiles/String62.dir/
 
 build cmake_object_order_depends_target_63String: phony || CMakeFiles/63String.dir
 
-build CMakeFiles/63String.dir/63String.c.obj: C_COMPILER__63String_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/63String.c || cmake_object_order_depends_target_63String
+build CMakeFiles/63String.dir/63String.c.obj: C_COMPILER__63String_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/63String.c || cmake_object_order_depends_target_63String
   DEP_FILE = CMakeFiles\63String.dir\63String.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\63String.dir
@@ -2161,7 +2167,7 @@ build 63String.exe: C_EXECUTABLE_LINKER__63String_Debug CMakeFiles/63String.dir/
 
 build cmake_object_order_depends_target_66Macros: phony || CMakeFiles/66Macros.dir
 
-build CMakeFiles/66Macros.dir/66Macros.c.obj: C_COMPILER__66Macros_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/66Macros.c || cmake_object_order_depends_target_66Macros
+build CMakeFiles/66Macros.dir/66Macros.c.obj: C_COMPILER__66Macros_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/66Macros.c || cmake_object_order_depends_target_66Macros
   DEP_FILE = CMakeFiles\66Macros.dir\66Macros.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\66Macros.dir
@@ -2194,7 +2200,7 @@ build 66Macros.exe: C_EXECUTABLE_LINKER__66Macros_Debug CMakeFiles/66Macros.dir/
 
 build cmake_object_order_depends_target_64String: phony || CMakeFiles/64String.dir
 
-build CMakeFiles/64String.dir/64String.c.obj: C_COMPILER__64String_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/64String.c || cmake_object_order_depends_target_64String
+build CMakeFiles/64String.dir/64String.c.obj: C_COMPILER__64String_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/64String.c || cmake_object_order_depends_target_64String
   DEP_FILE = CMakeFiles\64String.dir\64String.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\64String.dir
@@ -2227,7 +2233,7 @@ build 64String.exe: C_EXECUTABLE_LINKER__64String_Debug CMakeFiles/64String.dir/
 
 build cmake_object_order_depends_target_67MemoryManagement: phony || CMakeFiles/67MemoryManagement.dir
 
-build CMakeFiles/67MemoryManagement.dir/67MemoryManagement.c.obj: C_COMPILER__67MemoryManagement_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/67MemoryManagement.c || cmake_object_order_depends_target_67MemoryManagement
+build CMakeFiles/67MemoryManagement.dir/67MemoryManagement.c.obj: C_COMPILER__67MemoryManagement_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/67MemoryManagement.c || cmake_object_order_depends_target_67MemoryManagement
   DEP_FILE = CMakeFiles\67MemoryManagement.dir\67MemoryManagement.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\67MemoryManagement.dir
@@ -2260,7 +2266,7 @@ build 67MemoryManagement.exe: C_EXECUTABLE_LINKER__67MemoryManagement_Debug CMak
 
 build cmake_object_order_depends_target_68MemoryManagement: phony || CMakeFiles/68MemoryManagement.dir
 
-build CMakeFiles/68MemoryManagement.dir/68MemoryManagement.c.obj: C_COMPILER__68MemoryManagement_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/68MemoryManagement.c || cmake_object_order_depends_target_68MemoryManagement
+build CMakeFiles/68MemoryManagement.dir/68MemoryManagement.c.obj: C_COMPILER__68MemoryManagement_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/68MemoryManagement.c || cmake_object_order_depends_target_68MemoryManagement
   DEP_FILE = CMakeFiles\68MemoryManagement.dir\68MemoryManagement.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\68MemoryManagement.dir
@@ -2293,7 +2299,7 @@ build 68MemoryManagement.exe: C_EXECUTABLE_LINKER__68MemoryManagement_Debug CMak
 
 build cmake_object_order_depends_target_Mat: phony || CMakeFiles/Mat.dir
 
-build CMakeFiles/Mat.dir/Mat.c.obj: C_COMPILER__Mat_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/Mat.c || cmake_object_order_depends_target_Mat
+build CMakeFiles/Mat.dir/Mat.c.obj: C_COMPILER__Mat_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/Mat.c || cmake_object_order_depends_target_Mat
   DEP_FILE = CMakeFiles\Mat.dir\Mat.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Mat.dir
@@ -2326,7 +2332,7 @@ build Mat.exe: C_EXECUTABLE_LINKER__Mat_Debug CMakeFiles/Mat.dir/Mat.c.obj
 
 build cmake_object_order_depends_target_38FunctionPointer: phony || CMakeFiles/38FunctionPointer.dir
 
-build CMakeFiles/38FunctionPointer.dir/38FunctionPointer.c.obj: C_COMPILER__38FunctionPointer_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/38FunctionPointer.c || cmake_object_order_depends_target_38FunctionPointer
+build CMakeFiles/38FunctionPointer.dir/38FunctionPointer.c.obj: C_COMPILER__38FunctionPointer_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/38FunctionPointer.c || cmake_object_order_depends_target_38FunctionPointer
   DEP_FILE = CMakeFiles\38FunctionPointer.dir\38FunctionPointer.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\38FunctionPointer.dir
@@ -2359,7 +2365,7 @@ build 38FunctionPointer.exe: C_EXECUTABLE_LINKER__38FunctionPointer_Debug CMakeF
 
 build cmake_object_order_depends_target_38FunctionPointer2: phony || CMakeFiles/38FunctionPointer2.dir
 
-build CMakeFiles/38FunctionPointer2.dir/38FunctionPointer2.c.obj: C_COMPILER__38FunctionPointer2_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/38FunctionPointer2.c || cmake_object_order_depends_target_38FunctionPointer2
+build CMakeFiles/38FunctionPointer2.dir/38FunctionPointer2.c.obj: C_COMPILER__38FunctionPointer2_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/38FunctionPointer2.c || cmake_object_order_depends_target_38FunctionPointer2
   DEP_FILE = CMakeFiles\38FunctionPointer2.dir\38FunctionPointer2.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\38FunctionPointer2.dir
@@ -2392,7 +2398,7 @@ build 38FunctionPointer2.exe: C_EXECUTABLE_LINKER__38FunctionPointer2_Debug CMak
 
 build cmake_object_order_depends_target_69Enum: phony || CMakeFiles/69Enum.dir
 
-build CMakeFiles/69Enum.dir/69Enum.c.obj: C_COMPILER__69Enum_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/69Enum.c || cmake_object_order_depends_target_69Enum
+build CMakeFiles/69Enum.dir/69Enum.c.obj: C_COMPILER__69Enum_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/69Enum.c || cmake_object_order_depends_target_69Enum
   DEP_FILE = CMakeFiles\69Enum.dir\69Enum.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\69Enum.dir
@@ -2425,7 +2431,7 @@ build 69Enum.exe: C_EXECUTABLE_LINKER__69Enum_Debug CMakeFiles/69Enum.dir/69Enum
 
 build cmake_object_order_depends_target_69Enum2: phony || CMakeFiles/69Enum2.dir
 
-build CMakeFiles/69Enum2.dir/69Enum2.c.obj: C_COMPILER__69Enum2_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/69Enum2.c || cmake_object_order_depends_target_69Enum2
+build CMakeFiles/69Enum2.dir/69Enum2.c.obj: C_COMPILER__69Enum2_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/69Enum2.c || cmake_object_order_depends_target_69Enum2
   DEP_FILE = CMakeFiles\69Enum2.dir\69Enum2.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\69Enum2.dir
@@ -2458,7 +2464,7 @@ build 69Enum2.exe: C_EXECUTABLE_LINKER__69Enum2_Debug CMakeFiles/69Enum2.dir/69E
 
 build cmake_object_order_depends_target_TernaryOperator: phony || CMakeFiles/TernaryOperator.dir
 
-build CMakeFiles/TernaryOperator.dir/TernaryOperator.c.obj: C_COMPILER__TernaryOperator_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/TernaryOperator.c || cmake_object_order_depends_target_TernaryOperator
+build CMakeFiles/TernaryOperator.dir/TernaryOperator.c.obj: C_COMPILER__TernaryOperator_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/TernaryOperator.c || cmake_object_order_depends_target_TernaryOperator
   DEP_FILE = CMakeFiles\TernaryOperator.dir\TernaryOperator.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\TernaryOperator.dir
@@ -2491,7 +2497,7 @@ build TernaryOperator.exe: C_EXECUTABLE_LINKER__TernaryOperator_Debug CMakeFiles
 
 build cmake_object_order_depends_target_70Date: phony || CMakeFiles/70Date.dir
 
-build CMakeFiles/70Date.dir/70Date.c.obj: C_COMPILER__70Date_Debug C$:/Users/Hryhorii/Desktop/TaskEktos/70Date.c || cmake_object_order_depends_target_70Date
+build CMakeFiles/70Date.dir/70Date.c.obj: C_COMPILER__70Date_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/70Date.c || cmake_object_order_depends_target_70Date
   DEP_FILE = CMakeFiles\70Date.dir\70Date.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\70Date.dir
@@ -2515,12 +2521,111 @@ build 70Date.exe: C_EXECUTABLE_LINKER__70Date_Debug CMakeFiles/70Date.dir/70Date
   TARGET_IMPLIB = lib70Date.dll.a
   TARGET_PDB = 70Date.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 2Print
+
+
+#############################################
+# Order-only phony target for 2Print
+
+build cmake_object_order_depends_target_2Print: phony || CMakeFiles/2Print.dir
+
+build CMakeFiles/2Print.dir/2Print.c.obj: C_COMPILER__2Print_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/2Print.c || cmake_object_order_depends_target_2Print
+  DEP_FILE = CMakeFiles\2Print.dir\2Print.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\2Print.dir
+  OBJECT_FILE_DIR = CMakeFiles\2Print.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2Print
+
+
+#############################################
+# Link the executable 2Print.exe
+
+build 2Print.exe: C_EXECUTABLE_LINKER__2Print_Debug CMakeFiles/2Print.dir/2Print.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2Print.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2Print.exe
+  TARGET_IMPLIB = lib2Print.dll.a
+  TARGET_PDB = 2Print.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 71VoidPointer
+
+
+#############################################
+# Order-only phony target for 71VoidPointer
+
+build cmake_object_order_depends_target_71VoidPointer: phony || CMakeFiles/71VoidPointer.dir
+
+build CMakeFiles/71VoidPointer.dir/71VoidPointer.c.obj: C_COMPILER__71VoidPointer_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/71VoidPointer.c || cmake_object_order_depends_target_71VoidPointer
+  DEP_FILE = CMakeFiles\71VoidPointer.dir\71VoidPointer.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\71VoidPointer.dir
+  OBJECT_FILE_DIR = CMakeFiles\71VoidPointer.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 71VoidPointer
+
+
+#############################################
+# Link the executable 71VoidPointer.exe
+
+build 71VoidPointer.exe: C_EXECUTABLE_LINKER__71VoidPointer_Debug CMakeFiles/71VoidPointer.dir/71VoidPointer.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\71VoidPointer.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 71VoidPointer.exe
+  TARGET_IMPLIB = lib71VoidPointer.dll.a
+  TARGET_PDB = 71VoidPointer.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 72VoidPointerFunction
+
+
+#############################################
+# Order-only phony target for 72VoidPointerFunction
+
+build cmake_object_order_depends_target_72VoidPointerFunction: phony || CMakeFiles/72VoidPointerFunction.dir
+
+build CMakeFiles/72VoidPointerFunction.dir/72VoidPointerFunction.c.obj: C_COMPILER__72VoidPointerFunction_Debug C$:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/72VoidPointerFunction.c || cmake_object_order_depends_target_72VoidPointerFunction
+  DEP_FILE = CMakeFiles\72VoidPointerFunction.dir\72VoidPointerFunction.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\72VoidPointerFunction.dir
+  OBJECT_FILE_DIR = CMakeFiles\72VoidPointerFunction.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 72VoidPointerFunction
+
+
+#############################################
+# Link the executable 72VoidPointerFunction.exe
+
+build 72VoidPointerFunction.exe: C_EXECUTABLE_LINKER__72VoidPointerFunction_Debug CMakeFiles/72VoidPointerFunction.dir/72VoidPointerFunction.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\72VoidPointerFunction.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 72VoidPointerFunction.exe
+  TARGET_IMPLIB = lib72VoidPointerFunction.dll.a
+  TARGET_PDB = 72VoidPointerFunction.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Hryhorii\Desktop\TaskEktos\cmake-build-debug && C:\Users\Hryhorii\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Hryhorii\Desktop\EctosTest\TaskEktos\cmake-build-debug && C:\Users\Hryhorii\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -2531,7 +2636,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Hryhorii\Desktop\TaskEktos\cmake-build-debug && C:\Users\Hryhorii\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SC:\Users\Hryhorii\Desktop\TaskEktos -BC:\Users\Hryhorii\Desktop\TaskEktos\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Hryhorii\Desktop\EctosTest\TaskEktos\cmake-build-debug && C:\Users\Hryhorii\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SC:\Users\Hryhorii\Desktop\EctosTest\TaskEktos -BC:\Users\Hryhorii\Desktop\EctosTest\TaskEktos\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -2586,6 +2691,8 @@ build 27IfElse: phony 27IfElse.exe
 build 28Switch: phony 28Switch.exe
 
 build 29Switch: phony 29Switch.exe
+
+build 2Print: phony 2Print.exe
 
 build 30Pointers: phony 30Pointers.exe
 
@@ -2673,6 +2780,10 @@ build 6LogicalOperators: phony 6LogicalOperators.exe
 
 build 70Date: phony 70Date.exe
 
+build 71VoidPointer: phony 71VoidPointer.exe
+
+build 72VoidPointerFunction: phony 72VoidPointerFunction.exe
+
 build 7LogicOp: phony 7LogicOp.exe
 
 build 8CycleFor: phony 8CycleFor.exe
@@ -2697,9 +2808,9 @@ build TernaryOperator: phony TernaryOperator.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Hryhorii/Desktop/TaskEktos/cmake-build-debug
+# Folder: C:/Users/Hryhorii/Desktop/EctosTest/TaskEktos/cmake-build-debug
 
-build all: phony TaskEktos.exe 1HelloWorld.exe 1Print.exe 1Types.exe 3Print.exe 3Scan.exe 5LogicalOperators.exe 6LogicalOperators.exe 7LogicOp.exe 8CycleForExemples.exe 8CycleFor.exe 9CycleForExemples.exe 10CycleForExemples.exe 11CycleWhile.exe 13Array.exe 14ArrayExwmple.exe 15Array.exe 17Array.exe 18Matrix.exe 19Matrix.exe 20Matrix.exe 21Matrix.exe 22Matrix.exe 23Matrix.exe 24Matrix.exe 25BytesOperation.exe 26BitShiftOperations.exe 27IfElse.exe 28Switch.exe 29Switch.exe 30Pointers.exe 31Pointers.exe 32PointerArithmetic.exe 33PointerArithmetic.exe 35PointerToPointer.exe 36Pointers.exe 3836PointersConst.exe 38PointersArray.exe 25Matrix.exe 39Boolean.exe 40Boolean.exe 12CycleWhile.exe 41Function.exe 42Function.exe 43Function.exe 44Function.exe 45Function.exe 46Function.exe 47FunctionArray.exe 48Structure.exe 50PointersStructure.exe 51Structure.exe 53Union.exe 52Union.exe 54BytesFilds.exe 55BytesFilds.exe 56TextFile.exe 58TextFile.exe 59BinFile.exe 60String.exe String61.exe 61StringFunction.exe String62.exe 63String.exe 66Macros.exe 64String.exe 67MemoryManagement.exe 68MemoryManagement.exe Mat.exe 38FunctionPointer.exe 38FunctionPointer2.exe 69Enum.exe 69Enum2.exe TernaryOperator.exe 70Date.exe
+build all: phony TaskEktos.exe 1HelloWorld.exe 1Print.exe 1Types.exe 3Print.exe 3Scan.exe 5LogicalOperators.exe 6LogicalOperators.exe 7LogicOp.exe 8CycleForExemples.exe 8CycleFor.exe 9CycleForExemples.exe 10CycleForExemples.exe 11CycleWhile.exe 13Array.exe 14ArrayExwmple.exe 15Array.exe 17Array.exe 18Matrix.exe 19Matrix.exe 20Matrix.exe 21Matrix.exe 22Matrix.exe 23Matrix.exe 24Matrix.exe 25BytesOperation.exe 26BitShiftOperations.exe 27IfElse.exe 28Switch.exe 29Switch.exe 30Pointers.exe 31Pointers.exe 32PointerArithmetic.exe 33PointerArithmetic.exe 35PointerToPointer.exe 36Pointers.exe 3836PointersConst.exe 38PointersArray.exe 25Matrix.exe 39Boolean.exe 40Boolean.exe 12CycleWhile.exe 41Function.exe 42Function.exe 43Function.exe 44Function.exe 45Function.exe 46Function.exe 47FunctionArray.exe 48Structure.exe 50PointersStructure.exe 51Structure.exe 53Union.exe 52Union.exe 54BytesFilds.exe 55BytesFilds.exe 56TextFile.exe 58TextFile.exe 59BinFile.exe 60String.exe String61.exe 61StringFunction.exe String62.exe 63String.exe 66Macros.exe 64String.exe 67MemoryManagement.exe 68MemoryManagement.exe Mat.exe 38FunctionPointer.exe 38FunctionPointer2.exe 69Enum.exe 69Enum2.exe TernaryOperator.exe 70Date.exe 2Print.exe 71VoidPointer.exe 72VoidPointerFunction.exe
 
 # =============================================================================
 # Built-in targets
